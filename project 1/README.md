@@ -1,4 +1,5 @@
-#Phishing Website Detection Tool
+#Phishing Website Detection Tool  :  
+
 🛡️ Real-Time URL Detector
 A Python-based application that detects phishing URLs using a hybrid approach: rule-based heuristics combined with a machine learning model trained on TF-IDF features and a Random Forest Classifier. The interface is built with Tkinter for real-time interaction.
 
